@@ -32,9 +32,15 @@ After that we have to add a new action in this sub menu. To do this just click "
 ![Imgur](https://i.imgur.com/pcYSfZvl.png)
 ![Imgur](https://i.imgur.com/VtkpT7Rl.png)
 
-Now that we have added the desired action we have to click the "Apply Changes" button in the upper left corner in order to globally save the changes made.  
+Now that we have added the desired action we have to click the tick in the newly added action adn then click the "Apply Changes" button in the upper left corner in order to globally save the changes made.  
 
 ![Imgur](https://i.imgur.com/406lQ6nl.png)  
+
+After that we will be able to see the added action by right clicking on the desktop.  
+
+![Imgur](https://i.imgur.com/b4a1pQ9l.png)
+
+
 
 
 
