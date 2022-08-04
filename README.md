@@ -11,11 +11,11 @@ Let's see some of its powers in the following sections.
 
 Let's see the main interface first.  
 
-![alt text](https://imgur.com/kRY95ij)  
+[Imgur](https://i.imgur.com/kRY95ij.png)
 
 As we can see there are some predefined features available like the "Empty Recycle Bin" or the "Delete Temporary Files" options.    
 
 To add our custom actions we have to click the "List Editor" button.  
 
-![alt text](https://imgur.com/L1XPy6w)  
+[Imgur](https://i.imgur.com/L1XPy6w.png)
 
