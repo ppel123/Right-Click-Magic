@@ -11,7 +11,7 @@ Let's see some of its powers in the following sections.
 
 Let's see the main interface first.  
 
-![Imgur](https://i.imgur.com/kRY95ijb.png)
+![Imgur](https://i.imgur.com/kRY95ijl.png)
 
 As we can see there are some predefined features available like the "Empty Recycle Bin" or the "Delete Temporary Files" options.    
 
