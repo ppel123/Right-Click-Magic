@@ -17,9 +17,27 @@ As we can see there are some predefined features available like the "Empty Recyc
 
 To add our custom actions we have to click the "List Editor" button.  
 
-![Imgur](https://i.imgur.com/L1XPy6w.png)  
+![Imgur](https://i.imgur.com/L1XPy6wl.png)
 
-Now we can edit the actions available in the right click menu. 
+Now we can edit the actions available in the right click menu.  
+
+![Imgur](https://i.imgur.com/EzH2o9Rl.png)  
+
+Let's try to add a custom action in a new right click option. First we will create a new sub menu by clicking the "Add Sub Menu" button. Let's name it "This is a new Group"  
+
+![Imgur](https://i.imgur.com/cz7B7F0l.png) 
+
+After that we have to add a new action in this sub menu. To do this just click "Add New" and navigate to the desired location for adding the action. After choosing the wanted file click "Save Changes" to apply the addition.  
+
+![Imgur](https://i.imgur.com/pcYSfZvl.png)
+![Imgur](https://i.imgur.com/VtkpT7Rl.png)
+
+Now that we have added the desired action we have to click the "Apply Changes" button in the upper left corner in order to globally save the changes made.  
+
+![Imgur](https://i.imgur.com/406lQ6nl.png)  
+
+
+
 
 
 
