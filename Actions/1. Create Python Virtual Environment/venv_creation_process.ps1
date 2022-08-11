@@ -39,7 +39,7 @@ try{
         LogWrite "Getting into virtual environment's folder"
         cd $folder_name
         LogWrite "Creating virtual environment"
-        python -m venv "new_virtual_env"
+        python -m venv $venv_name
         LogWrite "Virtual environment created successfully"
     }
     else{
