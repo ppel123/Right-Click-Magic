@@ -1,7 +1,7 @@
 # Right-Click-Magic
 Right Click = Everything
 
-We are using mouse right click everyday in ourlives. It helps us make our lives better and **faster**. Right click has some options available but these option have a limit.  
+We are using right click everyday in ourlives. It helps us make our lives better and **faster**. Right click has some options available but these option have a limit.  
 We can add more capabilities to our right click by using a free tool called EMC [Easy Context Menu](https://www.sordum.org/7615/easy-context-menu-v1-6/).  
 It is developed by the **Sordum Team** and let us add some predefined **and not only** options to our right click. Basically we can add everything there.  
 Let's see some of its powers in the following sections. 
